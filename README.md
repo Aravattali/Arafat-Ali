@@ -7,7 +7,7 @@ My personal repository.
 
 - 🔭 I’m currently working on **100 Days of Code: Python Bootcamp**
 - 🌱 I’m learning * Python *
-- 👨‍💻 All of my projects are available at [https://github.com/ArafatAli]([https://github.com/ArafatAli](https://github.com/Aravattali))
+- 👨‍💻 All of my projects are available at ([https://github.com/ArafatAli](https://github.com/Aravattali))
 - 💬 Ask me about *Python, Git & GitHub**
 - 📫 How to reach me: **arafat.jama.dev@gmail.com**
 - ⚡ Fun fact: I love building small real-world apps for local businesses!
