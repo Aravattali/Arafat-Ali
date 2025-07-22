@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=(https://github.com/Aravattali)&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[ArafatAli](https://github.com/Aravattali)&theme=github-dark&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aravattali&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aravattali&theme=github-dark&hide_border=false" width="48%"/>
 </p>
 
 ---
@@ -43,6 +43,7 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arafat-ali(https://www.linkedin.com/in/arafat-ali-63309922a/)/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="arafat ali linkedin" /></a>
-<a href="mailto:arafatalicodes@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/arafat-ali-63309922a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Aravattali" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:arafatalicodes@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
