@@ -15,7 +15,7 @@
   - GUI apps with Tkinter
   - Flask web apps
   - Capstone Python projects
-- 📫 Reach me at: **arafatalicodes@gmail.com**
+- 📫 Reach me at: **arafat.jama.dev@gmail.com**
 - 🧠 Fun fact: I enjoy building small, useful Python apps for real-life problems!
 
 ---
